@@ -1,0 +1,2 @@
+# sagemaker_jp_matplotlib_test
+sagemaker notebookでmatplotlibを日本語表示の確認
